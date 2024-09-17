@@ -1,8 +1,15 @@
+
 ## Event Driven Audio Summarization LLM Pipeline
+```
+---
+Author: Aishwarya Mali
+Date:   09/16/24
+---
+```
 
 
 ### Architecture Diagram
-![image architecture](https://github.com/ashm8206/Event-Driven-Audio-Summarization-with-LLM/blob/main/Event_driven_Audio_Summarization_llm_pipeline.drawio.png)
+![image architecture](https://github.com/ashm8206/Event-Driven-Audio-Summarization-with-LLM/blob/main/Event_driven_Audio_Summarization_llm_pipeline.png)
 
 ### Code
 1. Part 4 contains the [complete pipeline code](https://github.com/ashm8206/Event-Driven-Audio-Summarization-with-LLM/blob/main/Part_4_Event-driven_generation.ipynb)
@@ -16,4 +23,4 @@
 
 #### References
 * [Deeplearing.io](https://www.deeplearning.ai/short-courses/serverless-llm-apps-amazon-bedrock/)
-* [Event Driven Design Patterns](https://aws.amazon.com/blogs/architecture/get-started-with-amazon-s3-event-driven-design-patterns/) 
+* [Event Driven Design Patterns](https://aws.amazon.com/blogs/architecture/get-started-with-amazon-s3-event-driven-design-patterns/)
